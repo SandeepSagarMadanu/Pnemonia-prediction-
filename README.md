@@ -1,11 +1,5 @@
 # Chest X-Ray Image Classification for Pneumonia Detection
 
-## 📌 About
-
-This project uses Convolutional Neural Networks (CNNs) to classify chest X-ray images as **Normal** or **Pneumonia**. It supports medical professionals by providing fast and accurate diagnosis assistance from radiology images. The model achieves high accuracy and is trained and tested using labeled X-ray datasets.
-
----
-
 ## 🧠 Problem Statement
 
 Pneumonia is a serious lung infection and can be life-threatening if not diagnosed early. Traditional manual diagnosis through X-rays is time-consuming and error-prone. This project aims to automate the process using deep learning to improve accuracy and speed of detection.
